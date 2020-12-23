@@ -6,9 +6,9 @@ spring:
 spring:
   profiles: dev
   application:
-     name:mircoservicecloud-config-ouyangshu-dev
+     name: mircoservicecloud-config-ouyangshu-dev
 ---
 spring:
   profiles: test
   application:
-     name:mircoservicecloud-config-ouyangshu-test
+     name: mircoservicecloud-config-ouyangshu-test
